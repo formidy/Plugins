@@ -12,33 +12,7 @@
       "gameId": 142823291
     }
   ],
-  "categories": [
-    {
-      "name": "Automation",
-      "description": "Scripts that automate game tasks and farming",
-      "icon": "🤖"
-    },
-    {
-      "name": "Character",
-      "description": "Modify character properties and abilities",
-      "icon": "🏃"
-    },
-    {
-      "name": "Utilities",
-      "description": "Helpful tools and utilities",
-      "icon": "🔧"
-    },
-    {
-      "name": "Visual",
-      "description": "Visual enhancements and overlays",
-      "icon": "👁️"
-    },
-    {
-      "name": "Games",
-      "description": "Game-specific scripts and tools",
-      "icon": "🎮"
-    }
-  ],
+ 
   "featured": [
     "MM2 Auto Farm"
   ]
