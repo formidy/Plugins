@@ -1,1 +1,62 @@
-
+{
+  "plugins": [
+    {
+      "name": "MM2 Auto Farm",
+      "author": "formidy",
+      "description": "Automated farming script for Murder Mystery 2 with coin collection, XP farming, and intelligent movement patterns for maximum efficiency.",
+      "version": "1.0.0",
+      "category": "Automation",
+      "fileName": "mm2-autofarm.lua",
+      "githubRepo": "formidy/Plugins",
+      "downloadUrl": "https://raw.githubusercontent.com/formidy/Plugins/refs/heads/main/mm2-autofarm.lua",
+      "featured": true,
+      "permissions": [
+        "workspace_access",
+        "player_data",
+        "teleportation",
+        "ui_creation",
+        "storage_access"
+      ],
+      "changelog": {
+        "1.0.0": "Initial release with coin farming and XP automation"
+      },
+      "rating": 5,
+      "ratingCount": 1,
+      "lastUpdated": "2024-12-17",
+      "fileSize": "12 KB",
+      "requiresArgs": false,
+      "aliases": ["mm2farm", "mm2auto", "murderfarm"],
+      "gameId": 142823291
+    }
+  ],
+  "categories": [
+    {
+      "name": "Automation",
+      "description": "Scripts that automate game tasks and farming",
+      "icon": "🤖"
+    },
+    {
+      "name": "Character",
+      "description": "Modify character properties and abilities",
+      "icon": "🏃"
+    },
+    {
+      "name": "Utilities",
+      "description": "Helpful tools and utilities",
+      "icon": "🔧"
+    },
+    {
+      "name": "Visual",
+      "description": "Visual enhancements and overlays",
+      "icon": "👁️"
+    },
+    {
+      "name": "Games",
+      "description": "Game-specific scripts and tools",
+      "icon": "🎮"
+    }
+  ],
+  "featured": [
+    "MM2 Auto Farm"
+  ]
+}
